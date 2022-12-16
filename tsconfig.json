@@ -27,7 +27,7 @@
         "./src/helpers/*"
       ],
       "@infra/*": [
-        "./infra/*"
+        "./src/infra/*"
       ],
       "@test/*": [
         "./test/*"
